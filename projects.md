@@ -6,7 +6,7 @@ layout: default
 
 ### Noonchi-Baekdan
 
-: CS492 Crowdsourcing & Social Computing, Fall 2017
+###### CS492 Crowdsourcing & Social Computing, Fall 2017
 
 Web service for asking the hidden meaning of mobile conversations
 
@@ -15,7 +15,7 @@ Web service for asking the hidden meaning of mobile conversations
 
 ### OverWatch
 
-: CS584 Human-Computer Interaction, Fall 2017
+###### CS584 Human-Computer Interaction, Fall 2017
 
 Notification UI for smartwatches with notification grouping
 
@@ -23,7 +23,7 @@ Notification UI for smartwatches with notification grouping
 
 ### Cooky
 
-: CS374 Introduction to Human-Computer Interaction, Spring 2017
+###### CS374 Introduction to Human-Computer Interaction, Spring 2017
 
 Web interface for distributing cooking steps during collaborative cooking
 
@@ -31,24 +31,24 @@ Web interface for distributing cooking steps during collaborative cooking
 
 ### Maestro
 
-: CS408 Computer Science Project, Spring 2017
+###### CS408 Computer Science Project, Spring 2017
 
 Smartwatch-based presentation remote
 
 ### Technovalley
 
-: CS496 Entrepreneurship and Immersive Programming Camp, Winter 2016
+###### CS496 Entrepreneurship and Immersive Programming Camp, Winter 2016
 
 Browser extension for scrapping web pages & sharing
 
 ### Yoplait
 
-: CS496 Entrepreneurship and Immersive Programming Camp, Winter 2016
+###### CS496 Entrepreneurship and Immersive Programming Camp, Winter 2016
 
 Travel planning & itinerary sharing service
 
 ### Sally
 
-: CS496 Entrepreneurship and Immersive Programming Camp, Winter 2016
+###### CS496 Entrepreneurship and Immersive Programming Camp, Winter 2016
 
 Diary with sentiment analysis
