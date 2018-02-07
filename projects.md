@@ -42,7 +42,7 @@ Browser extension for scrapping web pages & sharing
 
 Travel planning & itinerary sharing service
 
-![Screenshot](yoplait.png)
+![Screenshot](./yoplait.png)
 
 ### Sally
 ###### CS496 Entrepreneurship and Immersive Programming Camp, Winter 2016
