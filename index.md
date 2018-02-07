@@ -4,18 +4,15 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="hyunwoo.png">
+<img class="profile-picture" src="hyunwoo2.png">
 
 Hi! My name is Hyunwoo Kim. I am a Master's student at School of Computing, KAIST. I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). I am interested in helping people to express their opinions in a more persuasive way with computer systems.  
 
-## Publications
-
-~~I wish I could have one.....~~
+You can reach me at khw0726 [at] kaist.ac.kr.
 
 ## Education
 
 * March 2013 - August 2017 : B.S. in Chemistry & Computer Science, KAIST
-
 
 
 
