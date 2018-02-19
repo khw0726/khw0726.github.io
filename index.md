@@ -8,7 +8,7 @@ layout: default
 
 Hi! My name is Hyunwoo Kim. I am a Master's student at School of Computing, KAIST. I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). I am interested in helping people to express their opinions in a more persuasive way with computer systems.  
 
-You can reach me at khw0726 [at] kaist.ac.kr.
+You can reach me at khw0726 (at) kaist (dot) ac (dot) kr.
 
 ## Education
 
