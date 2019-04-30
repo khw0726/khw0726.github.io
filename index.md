@@ -15,7 +15,10 @@ You can reach me at khw0726 (at) kaist (dot) ac (dot) kr.
 * August 2017 -            : M.S. in Computer Science, KAIST
 * March 2013 - August 2017 : B.S. in Chemistry & Computer Science, KAIST. (Magna Cum Laude)
 
+## Research
 
+* Crowdsourcing Perspectives on Public Policy from Stakeholders
+  * CHI 2019 Extended Abstracts
 
 <!-- ## Typography
 

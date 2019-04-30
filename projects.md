@@ -11,6 +11,8 @@ Personal deliberation, the process through which people can form an informed opi
 
 [Paper](https://kixlab.github.io/website-files/2019/chi2019-lbw-PolicyScape-paper.pdf)
 
+---
+
 ## Class Projects
 
 ### Noonchi-Baekdan
