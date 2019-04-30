@@ -3,13 +3,11 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [khw0726@kaist.ac.kr](mailto:khw0726@kaist.ac.kr)
 
 ---
 
-## Mailing Address
+<!-- ## Mailing Address
 
 > 221B, Baker Street
 >
@@ -17,10 +15,10 @@ is_contact: true
 >
 > United Kingdom
 
----
+--- -->
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://facebook.com/hyunwoo.daniel.kim)
+2. [Twitter](https://twitter.com/anthropometrie)
+3. [LinkedIn](https://www.linkedin.com/in/hyunwoo-kim-776130121/)
