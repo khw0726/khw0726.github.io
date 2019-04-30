@@ -6,12 +6,13 @@ layout: default
 
 <img class="profile-picture" src="hyunwoo.jpg">
 
-Hi! My name is Hyunwoo Kim. I am a Master's student in School of Computing at KAIST. I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). My research area is computer-supported cooperative work (CSCW), which is a subfield of human-computer interaction (HCI). Specifically, I am interested in helping people to express their opinions in structured way.
+Hi! My name is Hyunwoo Kim. I am a Master's student in School of Computing at KAIST. I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). I am interested in building interactive systems for facilitating communication and collaboration among diverse people.
 
 You can reach me at khw0726 (at) kaist (dot) ac (dot) kr.
 
 ## Education
 
+* August 2017 -            : M.S. in Computer Science, KAIST
 * March 2013 - August 2017 : B.S. in Chemistry & Computer Science, KAIST
 
 
