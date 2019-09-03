@@ -11,8 +11,8 @@ Hi! My name is Hyunwoo Kim. I am a Master's student in [School of Computing at K
 You can reach me at khw0726 (at) kaist (dot) ac (dot) kr.
 
 ## Education
-
-* August 2017 -            : M.S. in Computer Science, KAIST
+* September 2019 -            : Ph. D. in Computer Science, KAIST
+* August 2017 - August 2019 : M.S. in Computer Science, KAIST
 * March 2013 - August 2017 : B.S. in Chemistry & Computer Science, KAIST. (Magna Cum Laude)
 
 ## Research
