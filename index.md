@@ -17,8 +17,11 @@ You can reach me at khw0726 (at) kaist (dot) ac (dot) kr.
 
 ## Research
 
-* Crowdsourcing Perspectives on Public Policy from Stakeholders
-  * CHI 2019 Extended Abstracts
+**Crowdsourcing Perspectives on Public Policy from Stakeholders**
+
+*Hyunwoo Kim*, Eun-Young Ko, Donghoon Han, Sung-chul Lee, Simon Perrault, Jihee Kim & Juho Kim
+
+CHI 2019 Extended Abstracts
 
 <!-- ## Typography
 
