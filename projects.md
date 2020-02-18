@@ -29,6 +29,13 @@ Personal deliberation, the process through which people can form an informed opi
 
 ## Class Projects
 
+### Bias Explorer
+###### CS489 Computer Ethics and Social Issues, Fall 2019
+
+A web application for investigating the demographic bias of a crowdsourced dataset
+
+<!-- [Live interface](https://cs489app.hyunwoo.me)  -->
+
 ### Noonchi-Baekdan
 ###### CS492 Crowdsourcing & Social Computing, Fall 2017
 
