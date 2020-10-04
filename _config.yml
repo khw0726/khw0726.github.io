@@ -4,7 +4,7 @@ baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
-
+description: "I'm a Ph. D. student studying HCI, with interest on communication among people with diverse backgrounds."
 tracking_id: UA-139322329-1
 
 # footer: yes
@@ -20,8 +20,8 @@ nav:
   link: ""
 - name: "Projects"
   link: "projects"
-- name: "Contact"
-  link: "contact"
+# - name: "Contact"
+#   link: "contact"
 
 #  - name: "Resume"
 #    link: "resume.pdf"

@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="hyunwoo.jpg">
 
-Hi! My name is Hyunwoo Kim. I am a Master's student in [School of Computing at KAIST](https://cs.kaist.ac.kr). I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). I am interested in building interactive systems for facilitating communication and collaboration among diverse people.
+Hi! My name is Hyunwoo Kim. I am a Master's student in [School of Computing at KAIST](https://cs.kaist.ac.kr). I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). I am interested in building interactive systems for facilitating communication and collaboration among people with diverse backgrounds.
 
-You can reach me at khw0726 (at) kaist (dot) ac (dot) kr.
+You can reach me at khw0726 (at) kaist (dot) ac (dot) kr. You can also find me from [Facebook](https://facebook.com/hyunwoo.daniel.kim), [Twitter](https://twitter.com/hyunwoo_iam), or [LinkedIn](https://www.linkedin.com/in/hyunwoo-kim-776130121/).
 
 ## Education
 * September 2019 -            : Ph. D. in Computer Science, KAIST
