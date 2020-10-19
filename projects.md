@@ -21,7 +21,7 @@ What if people can discover there exists a variety of opinions from diverse grou
 
 Personal deliberation, the process through which people can form an informed opinion on social issues,serves an important role in helping citizens construct a rational argument in the public deliberation.However, existing information channels for public policies deliver only few stakeholders’ voices, thusfailing to provide a diverse knowledge base for personal deliberation. This paper presents an initialdesign of PolicyScape, an online system that supports personal deliberation on public policies byhelping citizens explore diverse stakeholders and their perspectives on the policy’s effect. Building onliterature on crowdsourced policymaking and policy stakeholders, we present several design choicesfor crowdsourcing stakeholder perspectives. We introduce perspective-taking as an approach forpersonal deliberation by helping users consider stakeholder perspectives on policy issues. Our initialresults suggest that PolicyScape could collect diverse sets of perspectives from the stakeholders ofpublic policies, and help participants discover unexpected viewpoints of various stakeholder groups.
 
-[Paper](https://kixlab.github.io/website-files/2019/chi2019-lbw-PolicyScape-paper.pdf)
+[Extended Abstract](https://kixlab.github.io/website-files/2019/chi2019-lbw-PolicyScape-paper.pdf)
 
 [Live system](https://policytype.kixlab.org) (In Korean)
 

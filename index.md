@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="hyunwoo.jpg">
 
-Hi! My name is Hyunwoo Kim. I am a Master's student in [School of Computing at KAIST](https://cs.kaist.ac.kr). I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). I am interested in building interactive systems for facilitating communication and collaboration among people with diverse backgrounds.
+Hi! My name is Hyunwoo Kim. I am a Ph. D. student in [School of Computing at KAIST](https://cs.kaist.ac.kr). I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). I am interested in building interactive systems for facilitating communication and collaboration among people with diverse backgrounds.
 
 You can reach me at khw0726 (at) kaist (dot) ac (dot) kr. You can also find me from [Facebook](https://facebook.com/hyunwoo.daniel.kim), [Twitter](https://twitter.com/hyunwoo_iam), or [LinkedIn](https://www.linkedin.com/in/hyunwoo-kim-776130121/).
 
@@ -21,7 +21,7 @@ You can reach me at khw0726 (at) kaist (dot) ac (dot) kr. You can also find me f
 
 *Hyunwoo Kim*, Eun-Young Ko, Donghoon Han, Sung-chul Lee, Simon Perrault, Jihee Kim & Juho Kim
 
-CHI 2019 Extended Abstracts
+CHI 2019 Extended Abstracts [acm dl](https://dl.acm.org/doi/10.1145/3290607.3312769)
 
 <!-- ## Typography
 
