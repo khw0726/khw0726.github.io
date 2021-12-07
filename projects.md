@@ -5,14 +5,15 @@ layout: default
 ## Research Projects
 
 ### Supporting Listening to Diverse Opinions in Online Space by Reducing Stereotypes
-###### Ongoing work
+###### CSCW 2021 Full Paper
 
 A lot of people believed that the Internet could be an ideal public sphere, where everyone can freely exchange their opinions. However, in reality, people tend to only listen to opinions aligned with their own by filtering out perspectives challenging their prior viewpoints. Sometimes, people even end up having stereotypes on people with opposing opinions, like “it would be just moms with teenager kids who think that video game addiction should be regulated”.
 
 What if people can discover there exists a variety of opinions from diverse groups of people? What if we can see a person with a completely different stance on a social issue from us but with a lot of shared characteristics? Will we pay more attention to their opinions? Based on this idea, we recently launched an experimental online platform called “별별생각” (byulbyul.kr), where a) people can share their characteristics as well as their opinions on social issues and b) people can see the distribution of opinions and search for people with shared characteristics.
 
-[Talk by Professor Juho Kim](https://youtu.be/u6hzAC8OoKM) ([Korean version](https://youtu.be/GdBJ3pJ5-Ek))
+[CSCW Full paper]()
 
+[Talk by Professor Juho Kim](https://youtu.be/u6hzAC8OoKM) ([Korean version](https://youtu.be/GdBJ3pJ5-Ek))
 [Live system](https://byulbyul.kr) (In Korean)
 
 ### Crowdsourcing Perspectives on Public Policy from Stakeholders
