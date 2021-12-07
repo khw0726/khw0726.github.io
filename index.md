@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="hyunwoo.jpg">
 
-Hi! My name is Hyunwoo Kim. I am a Ph. D. student in [School of Computing at KAIST](https://cs.kaist.ac.kr). I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). I am interested in building interactive systems for facilitating communication and collaboration among people with diverse backgrounds.
+Hi! My name is Hyunwoo Kim. I am a Ph. D. student in [School of Computing at KAIST](https://cs.kaist.ac.kr). I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). I am interested in building interactive systems for facilitating communication and collaboration among people with diverse viewpoints with technical support. 
 
 You can reach me at khw0726 (at) kaist (dot) ac (dot) kr. You can also find me from [Facebook](https://facebook.com/hyunwoo.daniel.kim), [Twitter](https://twitter.com/hyunwoo_iam), or [LinkedIn](https://www.linkedin.com/in/hyunwoo-kim-776130121/).
 
@@ -18,11 +18,15 @@ You can reach me at khw0726 (at) kaist (dot) ac (dot) kr. You can also find me f
 
 ## Research
 
+### Improving Readers’ Awareness of Divergent Viewpoints by Displaying Agendas of Comments in Online News Discussions
+
+Taewook Kim, *Hyunwoo Kim*, Juho Kim, Xiaojuan Ma
+CSCW 2021 Companion [acm dl](https://dl.acm.org/doi/10.1145/3462204.3481761)
 ### StarryThoughts: Facilitating Diverse Opinion Exploration on Social Issues
 
 *Hyunwoo Kim*, Haesoo Kim, Kyung Je Jo, Juho Kim
 
-CSCW 2021 Extended Abstracts [acm dl](https://dl.acm.org/doi/10.1145/3449140)
+CSCW 2021 Full Paper [acm dl](https://dl.acm.org/doi/10.1145/3449140)
 
 ### Crowdsourcing Perspectives on Public Policy from Stakeholders
 
