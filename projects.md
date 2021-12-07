@@ -5,6 +5,8 @@ layout: default
 ## Research Projects
 
 ### Supporting Listening to Diverse Opinions in Online Space by Reducing Stereotypes
+
+#### *Hyunwoo Kim*, Haesoo Kim, Kyung Je Jo & Juho Kim
 ###### CSCW 2021 Full Paper
 
 A lot of people believed that the Internet could be an ideal public sphere, where everyone can freely exchange their opinions. However, in reality, people tend to only listen to opinions aligned with their own by filtering out perspectives challenging their prior viewpoints. Sometimes, people even end up having stereotypes on people with opposing opinions, like “it would be just moms with teenager kids who think that video game addiction should be regulated”.
