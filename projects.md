@@ -14,8 +14,11 @@ A lot of people believed that the Internet could be an ideal public sphere, wher
 What if people can discover there exists a variety of opinions from diverse groups of people? What if we can see a person with a completely different stance on a social issue from us but with a lot of shared characteristics? Will we pay more attention to their opinions? Based on this idea, we recently launched an experimental online platform called “별별생각” (byulbyul.kr), where a) people can share their characteristics as well as their opinions on social issues and b) people can see the distribution of opinions and search for people with shared characteristics.
 
 [CSCW Full paper](https://kixlab.github.io/website-files/2021/cscw2021-StarryThoughts-paper.pdf)
+
 [CSCW Presentation](https://www.youtube.com/watch?v=LVQ49kUv8Y0)
+
 [Talk by Professor Juho Kim](https://youtu.be/u6hzAC8OoKM) ([Korean version](https://youtu.be/GdBJ3pJ5-Ek))
+
 [Live system](https://byulbyul.kr) (In Korean)
 
 ### Crowdsourcing Perspectives on Public Policy from Stakeholders

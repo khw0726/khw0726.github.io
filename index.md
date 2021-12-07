@@ -21,6 +21,7 @@ You can reach me at khw0726 (at) kaist (dot) ac (dot) kr. You can also find me f
 ### Improving Readers’ Awareness of Divergent Viewpoints by Displaying Agendas of Comments in Online News Discussions
 
 Taewook Kim, *Hyunwoo Kim*, Juho Kim, Xiaojuan Ma
+
 CSCW 2021 Companion [acm dl](https://dl.acm.org/doi/10.1145/3462204.3481761)
 ### StarryThoughts: Facilitating Diverse Opinion Exploration on Social Issues
 
