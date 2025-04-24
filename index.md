@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="hyunwoo.jpg">
 
-Hi! My name is Hyunwoo Kim. I am a Ph. D. student in [School of Computing at KAIST](https://cs.kaist.ac.kr). I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). My research interest is on designing and building AI-powered interactive systems enabling people to critically assess diverse information and viewpoints, especially around social issues, to make more informed decisions.
+Hi! My name is Hyunwoo Kim. I am a Ph. D. student in [School of Computing at KAIST](https://cs.kaist.ac.kr). I am a member of [KIXLAB](https://kixlab.org), directed by [Juho Kim](https://juhokim.com). My research interest is on designing and building AI-powered interactive systems enabling people to explore a wide range of diverse perspectives and information and deeply assess each of them to make more informed decisions, especially around socially and politically controversial issues. 
 
 In my free time, I like walking around cities and taking photos. If you're interested, please check out my [Instagram](https://www.instagram.com/hyunwoo.pics/).
 
